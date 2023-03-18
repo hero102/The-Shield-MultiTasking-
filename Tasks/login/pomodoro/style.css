@@ -17,8 +17,7 @@ body {
   color: #131313;
   font-family: "Montserrat", sans-serif;
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.15)),
-  url( https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/pomodoro-technique-linux.jpg);
- 
+  url(https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/01/pomodoro-technique-linux.jpg);
 }
 h1 {
   margin: 15px 0;
